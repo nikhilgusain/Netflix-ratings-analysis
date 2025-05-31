@@ -2,3 +2,7 @@
 This project analyzes Netflix ratings.
 ## Dataset
 Let
+
+### Time Line
+30/05/2025 - Started this project
+31/05/2025 - Completed data cleaning
