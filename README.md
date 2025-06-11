@@ -9,16 +9,16 @@ Link : https://www.kaggle.com/datasets/shivamb/netflix-shows
 Description: Contains information on Netflix's content library as of mid-2021.
 
 Columns Include:
-Title
-Type (Movie/TV Show)
-Director, Cast
-Country
-Date Added
-Release Year
-Rating (e.g., TV-MA, PG-13)
-Duration
-Genre (Listed in listed_in)
-Description
+Title  
+Type (Movie/TV Show)  
+Director, Cast  
+Country  
+Date Added  
+Release Year  
+Rating (e.g., TV-MA, PG-13)  
+Duration  
+Genre (Listed in listed_in)  
+Description  
 
 
 ### Tools & Libraries
@@ -29,7 +29,7 @@ matplotlib
 seaborn
 
 
-📂 Folder Structure
+## 📂 Folder Structure
 
 Netflix-Ratings-Analysis/
 │
