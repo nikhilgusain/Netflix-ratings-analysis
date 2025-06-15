@@ -21,8 +21,7 @@ Genre (Listed in listed_in)
 Description  
 
 
-### Tools & Libraries
-Python  
+### Tools & Libraries 
 pandas  
 NumPy  
 matplotlib  
