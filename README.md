@@ -37,3 +37,8 @@ Netflix-Ratings-Analysis/
     252522222├── netflix_analysis.py    # Python script version of the project
 ├── README.md              # Project overview
 └── plots/                 # Saved visualizations
+
+## Future Scope
+
+- Add IMDb ratings comparison
+- Sentiment analysis on show descriptions (future idea)
